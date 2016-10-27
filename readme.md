@@ -17,6 +17,9 @@ then issue the command
 
 
 
+So, after you install Git, NodeJS, MongoDB and you cloned the git repo.
+On your git-bash, issue the command "npm install", this will install the dependencies that's included on the package JSON file, i've already included it. You don't need to install each every dependencies.
+
 
 
 Dependencies included:
