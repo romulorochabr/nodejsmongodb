@@ -1,9 +1,9 @@
 NodeJS (express) + MongoDB Boiler plate
 
 Things you need to install first!!!!
--Git	       https://git-scm.com/download/win
--NodeJS        https://nodejs.org/en/
--MongoDB       https://www.mongodb.com/download-center
+- Git	       https://git-scm.com/download/win
+- NodeJS        https://nodejs.org/en/
+- MongoDB       https://www.mongodb.com/download-center
 
 
 
