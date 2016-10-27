@@ -45,3 +45,7 @@ Body-parser
 Things to do to before starting the server
 - Open CMD and issue the command "mongod", this will start the mongodb service on your local machine
 - On your git-bash, issue the command "node index.js" this will start the server, make the your git-bash is on the directory of your file. So double check on it.
+
+
+
+If you have any questions, just email me guys!
