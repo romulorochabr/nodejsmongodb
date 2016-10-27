@@ -11,7 +11,9 @@ The installation is very easy, just click next next next........
 
 after installing, create a new folder
 right click on the new folder and select "Git Bash here"
-then issue the command "git clone <>"
+then issue the command 
+
+- git clone https://github.com/johnfrades/nodejsmongodb.git
 
 
 
@@ -38,3 +40,8 @@ Body-parser
 
 
 
+
+
+Things to do to before starting the server
+- Open CMD and issue the command "mongod", this will start the mongodb service on your local machine
+- On your git-bash, issue the command "node index.js" this will start the server, make the your git-bash is on the directory of your file. So double check on it.
