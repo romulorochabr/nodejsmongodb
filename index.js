@@ -4,9 +4,9 @@ var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
 
 
-//You need this to use body-parser, i dont know the deeper meaning of this command
-//But just keep in mind that this command make the body-parser work 
-//so that this index.js server script can get the input data you've inputted on EJS files
+//
+// body-parser extract the entire body portion of an incoming
+//request stream and exposes it on req.body as something easier to interface with 
 app.use(bodyParser.urlencoded({extended:true}));
 
 
